@@ -1,0 +1,10 @@
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# secrets and os files
+.env
+.DS_Store
